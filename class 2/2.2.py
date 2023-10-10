@@ -4,10 +4,9 @@ for i in [9,16,36,53]:
 
 
 # range
-print(range(5))
+print(*range(5))
 for a in range(5):
     print(a)
-
 
 
 # while
