@@ -1,8 +1,7 @@
-a = int(input())
-
-if a>=100:
-    print("滿分")
-elif a>60:
-    print("及格")
+x=int(input())
+if x==0:
+    print("普通")
+elif x==1:
+    print("吉")
 else:
-    print("不及格")
+    print("大吉")

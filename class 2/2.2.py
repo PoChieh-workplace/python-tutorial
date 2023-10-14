@@ -1,4 +1,4 @@
-# for
+# # for
 for i in [9,16,36,53]:
     print(i)
 
@@ -11,6 +11,6 @@ for a in range(5):
 
 # while
 z = 0
-while(z<10):
+while(z<4):
     print(z)
     z+=1
